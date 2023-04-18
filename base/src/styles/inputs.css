@@ -5,10 +5,10 @@ input {
   padding: 16px;
   border: none;
   font-size: 12px;
+  color: #fff;
 }
 
 input::placeholder {
   font-family: "Roboto", sans-serif;
-
   color: #fff;
 }
