@@ -14,7 +14,7 @@ export default function TeacherCard({ teacher }: Props) {
 
   function handleTeacherDetail() {
     handleInsertTeacher(teacher);
-    navigate("teacher-detail");
+    navigate("/teacher-detail");
   }
 
   return (
