@@ -1,0 +1,41 @@
+.teacher-detail {
+  width: 467px;
+  height: 562px;
+  background-color: #da0175;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 54px;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+}
+
+.teacher-detail h1 {
+  font-size: 28px;
+  margin: 24px 0 12px 0;
+}
+
+.teacher-detail span {
+  font-size: 18px;
+  margin-bottom: 49px;
+}
+
+.teacher-detail h2 {
+  margin: 16px 0 24px 0;
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+.line {
+  width: 340px;
+}
+
+.teacher-detail p {
+  font-size: 14px;
+  line-height: 16px;
+  text-align: justify;
+  padding: 5px;
+  max-height: 155px;
+  overflow-y: auto;
+}
