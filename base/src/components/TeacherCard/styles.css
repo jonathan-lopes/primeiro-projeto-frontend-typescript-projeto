@@ -20,5 +20,10 @@
 .teacher-card h1 {
   font-size: 22px;
   margin-top: 16px;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
   font-family: "Roboto", sans-serif;
 }
